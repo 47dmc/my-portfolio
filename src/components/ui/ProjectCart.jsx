@@ -86,7 +86,7 @@ export const CardDescription = ({ className, children }) => {
   return (
     <p
       className={cn(
-        "text-zinc-400 tracking-wide leading-relaxed text-xl text-center bg-gradient-to-r from-purple-200 via-blue-300 to-red-400 bg-clip-text text-transparent text-wrap",
+        "text-zinc-400 tracking-wide leading-relaxed text-md text-center bg-gradient-to-r from-purple-200 via-blue-300 to-red-400 bg-clip-text text-transparent text-wrap",
         className
       )}
     >

@@ -16,19 +16,19 @@ export const ProjectCart = () => {
     {
       title: "FlexBank",
       description:
-        "A virtual environment built with React and Three.js, allowing users to explore, socialize, and interact with 3D objects. It showcases immersive experiences and virtual commerce opportunities.",
+        "Experience our beautifully designed payment and banking website, featuring an intuitive UI/UX. This static frontend showcases vibrant colors and seamless navigation, ensuring an engaging user experience. With elegant forms and interactive elements, managing finances becomes effortless and visually appealing, capturing the essence of modern banking.",
         url: "https://47dmc.github.io/flexbank-app/",
     },
     {
       title: "WellSips",
       description:
-        "A user-friendly blogging platform developed with React and Markdown, enabling users to create, edit, and publish articles. Features include tagging, comments, and social media sharing for enhanced engagement.",
+        "Discover our exquisite shopping website dedicated to showcasing a diverse selection of teas, including Darjeeling, luxury premium, Kerala, and Assam varieties. With a stunning UI/UX design, the site offers seamless navigation and vibrant visuals, making tea exploration a delightful experience. Indulge in the elegance of our platform, where every sip tells a story.",
         url: "https://47dmc.github.io/wellsips-app/",
     },
     {
       title: "Blogg",
       description:
-        "Designed and developed an online shopping site with multi functionality and interactive UI like Shopping cart and checkout functionality using ReactJS and Tailwind. This project focus on creating a seamless user experience and responsive on all devices.",
+        "Explore our blog on CRUD operations, where we delve into creating, reading, updating, and deleting data. Please note that the application may not function in your browser without hosted data; for setup instructions, check the GitHub repository's README guide to configure the API server effectively.",
         url: "https://47dmc.github.io/blogg-app/",
     },
   ];

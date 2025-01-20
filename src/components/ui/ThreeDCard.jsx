@@ -5,7 +5,7 @@ import MagicBtn from "./MagicBtn";
 export function ThreeDCard() {
   return (
     <CardContainer className="inter-var z-10">
-      <CardBody className="relative w-auto w-[25rem] sm:w-[30rem] h-auto rounded-xl p-6 border-2 border-red-900 bg-blue-50 bg-opacity-10">
+      <CardBody className="relative w-auto w-[20rem] sm:w-[30rem] h-auto rounded-xl p-6 border-2 border-red-900 bg-blue-50 bg-opacity-10">
         <CardItem
           translateZ="100"
           className="w-full h-auto object-cover rounded-xl border border-blue-900 shadow-[0px_10px_10px_black] lg:px-8 bg-gradient-to-r from-purple-200 via-blue-300 to-red-400 bg-clip-text text-transparent px-4"
@@ -25,7 +25,7 @@ export function ThreeDCard() {
         <div className="flex justify-center items-center mt-10">
           <CardItem translateZ={20} className="px-4 py-2">
             <a
-              href="/port-resume.pdf"
+              href="/my-portfolio/dmc-resume.pdf"
               download
               target="_blank"
               rel="noopener noreferrer"
